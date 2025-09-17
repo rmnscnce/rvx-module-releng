@@ -1,6 +1,6 @@
 {
-  "version": "v7.45.0.804174563 (patches 5.38.0)",
-  "versionCode": 1,
-  "zipUrl": "https://github.com/rmnscnce/rvx-module-releng/releases/download/1/googlephotos-revanced-magisk-v7.45.0.804174563-arm-v7a.zip",
+  "version": "v7.45.0.807274941 (patches 5.39.0)",
+  "versionCode": 2,
+  "zipUrl": "https://github.com/rmnscnce/rvx-module-releng/releases/download/2/googlephotos-revanced-magisk-v7.45.0.807274941-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/rmnscnce/rvx-module-releng/update/build.md"
 }
