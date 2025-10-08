@@ -1,6 +1,6 @@
 {
-  "version": "v20.14.43 (patches 5.41.0)",
-  "versionCode": 4,
-  "zipUrl": "https://github.com/rmnscnce/rvx-module-releng/releases/download/4/youtube-revanced-magisk-v20.14.43-all.zip",
+  "version": "v20.14.43 (patches 5.42.1)",
+  "versionCode": 5,
+  "zipUrl": "https://github.com/rmnscnce/rvx-module-releng/releases/download/5/youtube-revanced-magisk-v20.14.43-all.zip",
   "changelog": "https://raw.githubusercontent.com/rmnscnce/rvx-module-releng/update/build.md"
 }
